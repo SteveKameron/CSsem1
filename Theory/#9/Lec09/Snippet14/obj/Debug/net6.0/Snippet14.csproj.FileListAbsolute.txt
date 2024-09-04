@@ -1,0 +1,30 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\refint\Snippet14.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet14\obj\Debug\net6.0\ref\Snippet14.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.exe
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.deps.json
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\bin\Debug\net6.0\Snippet14.pdb
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\refint\Snippet14.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.pdb
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\Snippet14.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet14\obj\Debug\net6.0\ref\Snippet14.dll

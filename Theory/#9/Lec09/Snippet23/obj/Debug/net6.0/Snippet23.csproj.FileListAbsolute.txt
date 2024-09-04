@@ -1,0 +1,15 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\bin\Debug\net6.0\Snippet23.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\bin\Debug\net6.0\Snippet23.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\bin\Debug\net6.0\Snippet23.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\bin\Debug\net6.0\Snippet23.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\bin\Debug\net6.0\Snippet23.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\refint\Snippet23.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\Snippet23.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet23\obj\Debug\net6.0\ref\Snippet23.dll

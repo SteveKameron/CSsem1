@@ -1,0 +1,15 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\bin\Debug\net6.0\Snippet21.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\bin\Debug\net6.0\Snippet21.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\bin\Debug\net6.0\Snippet21.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\bin\Debug\net6.0\Snippet21.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\bin\Debug\net6.0\Snippet21.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\refint\Snippet21.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\Snippet21.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet21\obj\Debug\net6.0\ref\Snippet21.dll

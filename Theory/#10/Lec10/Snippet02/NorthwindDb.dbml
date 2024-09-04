@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Northwind" Class="NorthwindDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.Region" Member="Region">
+    <Type Name="Region">
+      <Column Name="RegionID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RegionDescription" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Region_Territories" Member="Territories" ThisKey="RegionID" OtherKey="RegionID" Type="Territories" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Territories" Member="Territories">
+    <Type Name="Territories">
+      <Column Name="TerritoryID" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TerritoryDescription" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="RegionID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Region_Territories" Member="Region" ThisKey="RegionID" OtherKey="RegionID" Type="Region" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44319cbb-93a4-4157-8d06-b41e08b7cfff": {
+      "ProjectGuid": "44319cbb-93a4-4157-8d06-b41e08b7cfff",
+      "DisplayName": "Snippet01",
+      "ColorIndex": 0
+    },
+    "e8e64035-7543-4fcd-803f-ad69582d8336": {
+      "ProjectGuid": "e8e64035-7543-4fcd-803f-ad69582d8336",
+      "DisplayName": "Snippet02",
+      "ColorIndex": 1
+    },
+    "c51f5787-7477-46dd-a449-db9530d57737": {
+      "ProjectGuid": "c51f5787-7477-46dd-a449-db9530d57737",
+      "DisplayName": "Snippet03",
+      "ColorIndex": 2
+    },
+    "3323b032-86ed-409d-b6cb-2f8b748aa1ef": {
+      "ProjectGuid": "3323b032-86ed-409d-b6cb-2f8b748aa1ef",
+      "DisplayName": "Snippet04",
+      "ColorIndex": 3
+    },
+    "7aa3ee10-8119-44b2-bddb-8d0cc68b8308": {
+      "ProjectGuid": "7aa3ee10-8119-44b2-bddb-8d0cc68b8308",
+      "DisplayName": "Snippet05",
+      "ColorIndex": 4
+    },
+    "30047b90-3b3d-406e-8da7-dc3be6276bf8": {
+      "ProjectGuid": "30047b90-3b3d-406e-8da7-dc3be6276bf8",
+      "DisplayName": "Snippet06",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "0596f10c-5d41-49d6-9356-cabddaa8a649": {
+      "ProjectGuid": "0596f10c-5d41-49d6-9356-cabddaa8a649",
+      "DisplayName": "Snippet07",
+      "ColorIndex": 6
+    },
+    "da196075-23e6-41dd-a391-a43263723c05": {
+      "ProjectGuid": "da196075-23e6-41dd-a391-a43263723c05",
+      "DisplayName": "Snippet08",
+      "ColorIndex": 7
+    },
+    "4fd8857a-2023-49b3-8a9c-75d60ff9b36b": {
+      "ProjectGuid": "4fd8857a-2023-49b3-8a9c-75d60ff9b36b",
+      "DisplayName": "Snippet09",
+      "ColorIndex": 8
+    },
+    "20aacf49-7ba5-4a88-ac34-f1c33e587fe9": {
+      "ProjectGuid": "20aacf49-7ba5-4a88-ac34-f1c33e587fe9",
+      "DisplayName": "Snippet10",
+      "ColorIndex": 9
+    },
+    "de5f40f4-d2a2-4033-bd20-8575ad260367": {
+      "ProjectGuid": "de5f40f4-d2a2-4033-bd20-8575ad260367",
+      "DisplayName": "Snippet11",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

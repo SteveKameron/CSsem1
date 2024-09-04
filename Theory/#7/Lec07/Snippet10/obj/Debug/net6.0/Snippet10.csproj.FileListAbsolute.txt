@@ -1,0 +1,11 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\bin\Debug\net6.0\Snippet10.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\bin\Debug\net6.0\Snippet10.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\bin\Debug\net6.0\ref\Snippet10.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\bin\Debug\net6.0\Snippet10.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\ref\Snippet10.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#7\Lec07\Snippet10\obj\Debug\net6.0\Snippet10.pdb

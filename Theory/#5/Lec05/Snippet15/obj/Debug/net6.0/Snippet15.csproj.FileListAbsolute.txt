@@ -1,0 +1,29 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.exe
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.runtimeconfig.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\ref\Snippet15.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\ref\Snippet15.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.exe
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.deps.json
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.dll
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\bin\Debug\net6.0\Snippet15.pdb
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.dll
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\refint\Snippet15.dll
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.pdb
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\Snippet15.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#5\Lec05\Snippet15\obj\Debug\net6.0\ref\Snippet15.dll

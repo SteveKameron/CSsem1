@@ -1,0 +1,30 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\Snippet01.exe
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\Snippet01.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\Snippet01.runtimeconfig.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\Snippet01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\ref\Snippet01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\bin\Debug\net6.0\Snippet01.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.csproj.AssemblyReference.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\ref\Snippet01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec03\Lec03\obj\Debug\net6.0\Snippet01.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\bin\Debug\net6.0\Snippet01.exe
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\bin\Debug\net6.0\Snippet01.deps.json
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\bin\Debug\net6.0\Snippet01.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\bin\Debug\net6.0\Snippet01.dll
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\bin\Debug\net6.0\Snippet01.pdb
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.dll
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\refint\Snippet01.dll
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.pdb
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\Snippet01.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#3\Lec03\Lec03\obj\Debug\net6.0\ref\Snippet01.dll

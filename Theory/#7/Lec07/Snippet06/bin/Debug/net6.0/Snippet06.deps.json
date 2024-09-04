@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Snippet06/1.0.0": {
+        "dependencies": {
+          "Snippet04": "1.0.0",
+          "Snippet05": "5.2.0"
+        },
+        "runtime": {
+          "Snippet06.dll": {}
+        }
+      },
+      "Snippet04/1.0.0": {
+        "runtime": {
+          "Snippet04.dll": {}
+        }
+      },
+      "Snippet05/5.2.0": {
+        "dependencies": {
+          "Snippet04": "1.0.0"
+        },
+        "runtime": {
+          "Snippet05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snippet06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Snippet04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Snippet05/5.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
