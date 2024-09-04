@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = gRPCClient
+build_property.ProjectDir = F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\

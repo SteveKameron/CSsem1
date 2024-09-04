@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wJv/n89FohZ+DX/jxKvEVYeY43rAkeT847Y8cz9iqWk=",
+  "Source": "GrpcHelloService",
+  "BasePath": "_content/GrpcHelloService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
