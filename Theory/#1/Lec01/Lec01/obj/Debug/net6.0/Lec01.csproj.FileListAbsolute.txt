@@ -1,0 +1,316 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.exe
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.runtimeconfig.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ref\Lec01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.AssemblyReference.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\ref\Lec01.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.genruntimeconfig.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msdia140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msvcp140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\vcruntime140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msdia140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msvcp140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.Annotations.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\CommandLine.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Iced.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Perfolizer.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.Management.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CopyComplete
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msdia140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msvcp140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\vcruntime140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msdia140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msvcp140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\TraceReloggerLib.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Dia2Lib.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\OSExtensions.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.exe
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.deps.json
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.runtimeconfig.json
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.pdb
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.Annotations.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\CommandLine.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Iced.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\Perfolizer.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.CodeDom.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.Management.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.AssemblyReference.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfoInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfo.cs
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CopyComplete
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\refint\Lec01.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.pdb
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.genruntimeconfig.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Debug\net6.0\ref\Lec01.dll
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.dll
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\refint\Lec01.dll
+F:\old pc\my docs\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msdia140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msvcp140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\x86\vcruntime140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msdia140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msvcp140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\KernelTraceControl.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\msdia140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\msvcp140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\vcruntime140.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\vcruntime140_1.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.Annotations.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\CommandLine.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Iced.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\Perfolizer.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\System.Management.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\refint\Lec01.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Lec01\obj\Debug\net6.0\ref\Lec01.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.AssemblyReference.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfoInputs.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.AssemblyInfo.cs
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CoreCompileInputs.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\refint\Lec01.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.pdb
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\x86\KernelTraceControl.Win61.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msdia140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\x86\msvcp140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\x86\vcruntime140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\KernelTraceControl.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msdia140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\msvcp140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\amd64\vcruntime140_1.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\KernelTraceControl.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\msdia140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\msvcp140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\vcruntime140.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\arm64\vcruntime140_1.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\TraceReloggerLib.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Dia2Lib.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\OSExtensions.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.exe
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.deps.json
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.runtimeconfig.json
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Lec01.pdb
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\BenchmarkDotNet.Annotations.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\CommandLine.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Iced.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.NETCore.Client.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\Perfolizer.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\System.CodeDom.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\System.Management.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.csproj.CopyComplete
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\Lec01.genruntimeconfig.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Lec01\obj\Debug\net6.0\ref\Lec01.dll

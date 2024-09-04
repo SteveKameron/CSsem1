@@ -1,0 +1,10 @@
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.csproj.AssemblyReference.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.AssemblyInfoInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.AssemblyInfo.cs
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet08\obj\Debug\net6.0\Snippet08.csproj.CoreCompileInputs.cache

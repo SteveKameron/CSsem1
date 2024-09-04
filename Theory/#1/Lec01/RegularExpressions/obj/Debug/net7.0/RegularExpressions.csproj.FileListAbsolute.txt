@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\bin\Debug\net7.0\RegularExpressions.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\bin\Debug\net7.0\RegularExpressions.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\bin\Debug\net7.0\RegularExpressions.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\bin\Debug\net7.0\RegularExpressions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\bin\Debug\net7.0\RegularExpressions.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\refint\RegularExpressions.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\RegularExpressions\obj\Debug\net7.0\ref\RegularExpressions.dll

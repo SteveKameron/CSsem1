@@ -1,0 +1,14 @@
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\bin\Debug\net7.0\Snippet12.exe
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\bin\Debug\net7.0\Snippet12.deps.json
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\bin\Debug\net7.0\Snippet12.runtimeconfig.json
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\bin\Debug\net7.0\Snippet12.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\bin\Debug\net7.0\Snippet12.pdb
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.GeneratedMSBuildEditorConfig.editorconfig
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.AssemblyInfoInputs.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.AssemblyInfo.cs
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.csproj.CoreCompileInputs.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\refint\Snippet12.dll
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.pdb
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\Snippet12.genruntimeconfig.cache
+E:\old pc\my docs\Lec C#\Lec C# 2024\#1\Lec01\Snippet12\obj\Debug\net7.0\ref\Snippet12.dll

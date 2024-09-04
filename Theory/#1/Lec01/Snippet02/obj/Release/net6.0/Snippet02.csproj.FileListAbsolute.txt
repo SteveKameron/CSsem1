@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\bin\Release\net6.0\Snippet02.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\bin\Release\net6.0\Snippet02.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\bin\Release\net6.0\Snippet02.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\bin\Release\net6.0\Snippet02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\bin\Release\net6.0\Snippet02.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\refint\Snippet02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\Snippet02.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet02\obj\Release\net6.0\ref\Snippet02.dll

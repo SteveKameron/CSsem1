@@ -1,0 +1,30 @@
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.exe
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.deps.json
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.runtimeconfig.json
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.pdb
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.csproj.AssemblyReference.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.AssemblyInfoInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.AssemblyInfo.cs
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\refint\Snippet16.dll
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.pdb
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.genruntimeconfig.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Snippet16\obj\Debug\net6.0\ref\Snippet16.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\bin\Debug\net6.0\Snippet16.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\refint\Snippet16.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\Snippet16.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#1\Lec01\Snippet16\obj\Debug\net6.0\ref\Snippet16.dll

@@ -1,0 +1,5 @@
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Release\net5.0\Lec01.csproj.AssemblyReference.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Release\net5.0\Lec01.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Release\net5.0\Lec01.AssemblyInfoInputs.cache
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Release\net5.0\Lec01.AssemblyInfo.cs
+F:\old pc\my docs\Лекции C#\#1\Lec01\Lec01\obj\Release\net5.0\Lec01.csproj.CoreCompileInputs.cache
