@@ -1,0 +1,5 @@
+F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#11\Code\GrpcHelloService\gRPCClient\obj\Debug\netcoreapp3.1\gRPCClient.csproj.CoreCompileInputs.cache

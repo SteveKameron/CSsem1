@@ -1,0 +1,24 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\bin\Debug\net6.0\ref\Lec06.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\ref\Lec06.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.deps.json
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.dll
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\bin\Debug\net6.0\Lec06.pdb
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.dll
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\refint\Lec06.dll
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\Lec06.pdb
+F:\old pc\my docs\Lec C#\#6\Lec06\Lec06\obj\Debug\net6.0\ref\Lec06.dll

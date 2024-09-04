@@ -1,0 +1,30 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\refint\Snippet19.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet19\obj\Release\net6.0\ref\Snippet19.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.exe
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.deps.json
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\bin\Release\net6.0\Snippet19.pdb
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\refint\Snippet19.dll
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.pdb
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\Snippet19.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#9\Lec09\Snippet19\obj\Release\net6.0\ref\Snippet19.dll

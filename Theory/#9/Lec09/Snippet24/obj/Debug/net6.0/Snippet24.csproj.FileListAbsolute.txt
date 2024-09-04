@@ -1,0 +1,15 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\bin\Debug\net6.0\Snippet24.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\bin\Debug\net6.0\Snippet24.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\bin\Debug\net6.0\Snippet24.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\bin\Debug\net6.0\Snippet24.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\bin\Debug\net6.0\Snippet24.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\refint\Snippet24.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\Snippet24.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet24\obj\Debug\net6.0\ref\Snippet24.dll

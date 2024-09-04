@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Snippet02": {
+      "commandName": "Project",
+      "commandLineArgs": "https://ru.wikipedia.org/"
+    }
+  }
+}

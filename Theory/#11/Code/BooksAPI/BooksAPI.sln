@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAPI", "BooksAPI\BooksAPI.csproj", "{1B0F757F-F160-4D11-B339-C58263C5B3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Books.Shared", "Books.Shared\Books.Shared.csproj", "{96B70D8C-BEEA-4E15-9A59-53C0240EBE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookServiceClient", "BookServiceClient\BookServiceClient.csproj", "{FFBF213F-AFC2-4BFD-8A16-D7E6A2C14C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B0F757F-F160-4D11-B339-C58263C5B3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0F757F-F160-4D11-B339-C58263C5B3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0F757F-F160-4D11-B339-C58263C5B3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0F757F-F160-4D11-B339-C58263C5B3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B70D8C-BEEA-4E15-9A59-53C0240EBE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B70D8C-BEEA-4E15-9A59-53C0240EBE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B70D8C-BEEA-4E15-9A59-53C0240EBE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B70D8C-BEEA-4E15-9A59-53C0240EBE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBF213F-AFC2-4BFD-8A16-D7E6A2C14C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF213F-AFC2-4BFD-8A16-D7E6A2C14C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF213F-AFC2-4BFD-8A16-D7E6A2C14C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF213F-AFC2-4BFD-8A16-D7E6A2C14C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB138FDA-A2AC-4548-806B-F96A42992B1F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\bin\Debug\net6.0\Snippet05.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\bin\Debug\net6.0\Snippet05.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\bin\Debug\net6.0\Snippet05.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\bin\Debug\net6.0\Snippet05.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\bin\Debug\net6.0\Snippet05.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\refint\Snippet05.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\Snippet05.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet05\obj\Debug\net6.0\ref\Snippet05.dll

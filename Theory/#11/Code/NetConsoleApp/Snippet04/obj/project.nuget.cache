@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+acyrGnqz5oqcBk5l1MkZwV6W9EcrbN7IPtWFvCJOD0KEWwvC0Q5O+YEPEMd5DR8EtqsRKRWW01muZ8Cb/PLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\Desktop\\Lec C#\\Lec C#\\#11\\Code\\NetConsoleApp\\Snippet04\\Snippet04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

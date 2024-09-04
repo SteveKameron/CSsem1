@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94d817b1-ca39-43a1-8d89-7844cf13456d": {
+      "ProjectGuid": "94d817b1-ca39-43a1-8d89-7844cf13456d",
+      "DisplayName": "Snippet01",
+      "ColorIndex": 0
+    },
+    "38793f8d-4aa9-4596-bb6f-4d2a387bea84": {
+      "ProjectGuid": "38793f8d-4aa9-4596-bb6f-4d2a387bea84",
+      "DisplayName": "Snippet02",
+      "ColorIndex": 1
+    },
+    "3812dc31-1e4e-4b3e-867d-06aaa62a34e1": {
+      "ProjectGuid": "3812dc31-1e4e-4b3e-867d-06aaa62a34e1",
+      "DisplayName": "Snippet03",
+      "ColorIndex": 2
+    },
+    "f90c8e90-88cd-41d4-a237-3a23d1ee633a": {
+      "ProjectGuid": "f90c8e90-88cd-41d4-a237-3a23d1ee633a",
+      "DisplayName": "Snippet04",
+      "ColorIndex": 3
+    },
+    "a643f678-7e61-4d81-a7d9-e1224af7e8d8": {
+      "ProjectGuid": "a643f678-7e61-4d81-a7d9-e1224af7e8d8",
+      "DisplayName": "Snippet05",
+      "ColorIndex": 4
+    },
+    "b51ad8db-6006-41c1-b4b9-b46e2718e9ef": {
+      "ProjectGuid": "b51ad8db-6006-41c1-b4b9-b46e2718e9ef",
+      "DisplayName": "Snippet06",
+      "ColorIndex": 5
+    },
+    "0674819f-280e-40f2-a8d3-9bfe75cc7f57": {
+      "ProjectGuid": "0674819f-280e-40f2-a8d3-9bfe75cc7f57",
+      "DisplayName": "Snippet07",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "78f3bb76-f92d-4c21-91dc-82305e1b9def": {
+      "ProjectGuid": "78f3bb76-f92d-4c21-91dc-82305e1b9def",
+      "DisplayName": "Snippet08",
+      "ColorIndex": 7
+    },
+    "27c22d03-1d1a-4296-888c-2b487d981e8b": {
+      "ProjectGuid": "27c22d03-1d1a-4296-888c-2b487d981e8b",
+      "DisplayName": "Snippet09",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1129ea48-264b-444f-a1d3-5e3695b22436": {
+      "ProjectGuid": "1129ea48-264b-444f-a1d3-5e3695b22436",
+      "DisplayName": "Lec06",
+      "ColorIndex": 0
+    },
+    "feab947c-77c5-430a-bd6b-90168b27e736": {
+      "ProjectGuid": "feab947c-77c5-430a-bd6b-90168b27e736",
+      "DisplayName": "Snippet01",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "5d2dfd9f-dd6c-4b65-b632-938131beb8eb": {
+      "ProjectGuid": "5d2dfd9f-dd6c-4b65-b632-938131beb8eb",
+      "DisplayName": "Snippet02",
+      "ColorIndex": 2
+    },
+    "7fe4e343-b1f3-4ed6-839b-38382af9e6b5": {
+      "ProjectGuid": "7fe4e343-b1f3-4ed6-839b-38382af9e6b5",
+      "DisplayName": "Snippet03",
+      "ColorIndex": 3
+    },
+    "e5bf78c9-b7ad-4d20-8318-9826c7fe455e": {
+      "ProjectGuid": "e5bf78c9-b7ad-4d20-8318-9826c7fe455e",
+      "DisplayName": "Snippet04",
+      "ColorIndex": 4
+    },
+    "7fe0de39-15bd-4d50-beed-637825f7d24a": {
+      "ProjectGuid": "7fe0de39-15bd-4d50-beed-637825f7d24a",
+      "DisplayName": "Snippet05",
+      "ColorIndex": 5
+    },
+    "e234bdc6-edab-4fed-b360-53ad706bfb6c": {
+      "ProjectGuid": "e234bdc6-edab-4fed-b360-53ad706bfb6c",
+      "DisplayName": "Snippet06",
+      "ColorIndex": 6
+    },
+    "d683b5ec-e4f2-4a0f-872c-c7cfc874e4bb": {
+      "ProjectGuid": "d683b5ec-e4f2-4a0f-872c-c7cfc874e4bb",
+      "DisplayName": "Snippet07",
+      "ColorIndex": 7
+    },
+    "ba59693d-0ecf-4b90-b3a2-314d0fbbde54": {
+      "ProjectGuid": "ba59693d-0ecf-4b90-b3a2-314d0fbbde54",
+      "DisplayName": "Snippet08",
+      "ColorIndex": 8
+    },
+    "3ba3e186-68ad-4c4e-ab6a-b4c399ad9bbc": {
+      "ProjectGuid": "3ba3e186-68ad-4c4e-ab6a-b4c399ad9bbc",
+      "DisplayName": "Snippet09",
+      "ColorIndex": 9
+    },
+    "05ba5923-3c22-48a9-92ed-1796ac55bc51": {
+      "ProjectGuid": "05ba5923-3c22-48a9-92ed-1796ac55bc51",
+      "DisplayName": "Snippet10",
+      "ColorIndex": 10
+    },
+    "b08803a7-5d77-4a65-8979-96e967a18ec5": {
+      "ProjectGuid": "b08803a7-5d77-4a65-8979-96e967a18ec5",
+      "DisplayName": "Snippet11",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

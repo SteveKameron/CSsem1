@@ -1,0 +1,15 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\Lec04.exe
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\Lec04.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\Lec04.runtimeconfig.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\Lec04.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\ref\Lec04.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\bin\Debug\net6.0\Lec04.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.csproj.AssemblyReference.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\ref\Lec04.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#4\Lec04\Lec04\obj\Debug\net6.0\Lec04.genruntimeconfig.cache

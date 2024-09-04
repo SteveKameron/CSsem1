@@ -1,0 +1,15 @@
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\bin\Debug\net6.0\Snippet22.exe
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\bin\Debug\net6.0\Snippet22.deps.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\bin\Debug\net6.0\Snippet22.runtimeconfig.json
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\bin\Debug\net6.0\Snippet22.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\bin\Debug\net6.0\Snippet22.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.AssemblyInfo.cs
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\refint\Snippet22.dll
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.pdb
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\Snippet22.genruntimeconfig.cache
+C:\Users\Alexander\Documents\#9\Lec09\Snippet22\obj\Debug\net6.0\ref\Snippet22.dll
