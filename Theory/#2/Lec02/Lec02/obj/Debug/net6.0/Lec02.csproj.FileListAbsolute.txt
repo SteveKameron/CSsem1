@@ -1,0 +1,30 @@
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.exe
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.deps.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.runtimeconfig.json
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\ref\Lec02.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.csproj.AssemblyReference.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.AssemblyInfoInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.AssemblyInfo.cs
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\ref\Lec02.dll
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.pdb
+C:\Users\AlexanderSrv\Documents\Лекции C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\bin\Debug\net6.0\Lec02.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\refint\Lec02.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\Lec02.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Lec02\Lec02\obj\Debug\net6.0\ref\Lec02.dll

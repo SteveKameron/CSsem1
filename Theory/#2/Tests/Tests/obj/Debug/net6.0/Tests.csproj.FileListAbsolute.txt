@@ -1,0 +1,30 @@
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.exe
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.deps.json
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.dll
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.pdb
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.dll
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\refint\Tests.dll
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.pdb
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\ref\Tests.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\bin\Debug\net6.0\Tests.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\refint\Tests.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#2\Tests\Tests\obj\Debug\net6.0\ref\Tests.dll
