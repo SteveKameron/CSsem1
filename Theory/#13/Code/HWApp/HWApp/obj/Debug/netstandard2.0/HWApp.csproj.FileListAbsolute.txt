@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\bin\Debug\netstandard2.0\HWApp.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\bin\Debug\netstandard2.0\HWApp.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\bin\Debug\netstandard2.0\HWApp.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\refint\HWApp.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\HWApp.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\HWApp\HWApp\obj\Debug\netstandard2.0\ref\HWApp.dll

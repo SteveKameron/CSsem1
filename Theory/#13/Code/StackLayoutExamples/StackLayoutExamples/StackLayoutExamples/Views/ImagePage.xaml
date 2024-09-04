@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExamples.Views.ImagePage">
+    <ContentPage.Content>
+        <StackLayout Margin="100">
+            <Image Source="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-CP-Edge" 
+                   WidthRequest="200"
+                   HeightRequest="150"
+                   Aspect="AspectFit"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

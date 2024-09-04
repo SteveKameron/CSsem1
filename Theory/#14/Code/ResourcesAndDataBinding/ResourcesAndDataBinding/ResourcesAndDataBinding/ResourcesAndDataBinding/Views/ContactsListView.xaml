@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResourcesAndDataBinding.Views.ContactsListView"
+             xmlns:local="clr-namespace:ResourcesAndDataBinding.Views">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:BoolToColorConverter x:Key="BoolToColorConverter" />
+            <DataTemplate x:Key="ContactTemplate">
+                <ViewCell>
+                    <ViewCell.View>
+                        <Frame HasShadow="False" BorderColor="Blue" Margin="10">
+                            <StackLayout>
+                                <Label Text="Last name:"/>
+                                <Entry Text="{Binding LastName}"/>
+                                <Label Text="First name:"/>
+                                <Entry Text="{Binding FirstName}"/>
+                                <Label Text="Date of birth:"/>
+                                <DatePicker Date="{Binding DateOfBirth, 
+                                            Mode=TwoWay}"/>
+
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Is Family Member?:"
+                                           VerticalOptions="Center"
+                                           TextColor="{Binding IsFamilyMember, Converter={StaticResource BoolToColorConverter}}"/>
+                                    <CheckBox IsChecked="{Binding IsFamilyMember}" 
+                                                      VerticalOptions="Center"
+                                              Color="{Binding IsFamilyMember, Converter={StaticResource BoolToColorConverter}}"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="ContactList" ItemsSource="{Binding}"
+                      ItemSelected="ContactList_ItemSelected"
+                      HasUnevenRows="True" ItemTemplate="{StaticResource ContactTemplate}" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,9 @@
+﻿ @*https://localhost:7246/Calc/add/38/4*@
+
+@page "{op:regex(^[add|sub|mul|div])}/{x:int}/{y:int}"
+
+@model RazorPagesSampleWebApp.Pages.CalcModel
+
+<h2>Calculation</h2>
+
+<h4>The operation @Model.Op with @Model.X and @Model.Y results in @Model.Result </h4>

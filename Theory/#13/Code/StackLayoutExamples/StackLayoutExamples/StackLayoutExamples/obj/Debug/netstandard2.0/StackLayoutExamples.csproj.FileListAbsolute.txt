@@ -1,0 +1,58 @@
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.deps.json
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.dll
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.pdb
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\AbsoluteLayoutPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ButtonPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\DateTimePickerPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\FlexLayoutPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\FramePage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\GridPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ImagePage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\LabelEntryEditorPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\MediaPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\RelativeLayoutPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ScrollViewPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\StackLayoutPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\SwitchSliderStepperPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\XamlC.stamp
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.dll
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\refint\StackLayoutExamples.dll
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.pdb
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\ref\StackLayoutExamples.dll
+F:\old pc\my docs\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\AlertsPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\bin\Debug\netstandard2.0\StackLayoutExamples.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\AbsoluteLayoutPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\AlertsPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ButtonPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\DateTimePickerPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\FlexLayoutPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\FramePage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\GridPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ImagePage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\LabelEntryEditorPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\MediaPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\RelativeLayoutPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\ScrollViewPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\StackLayoutPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\Views\SwitchSliderStepperPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\refint\StackLayoutExamples.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\StackLayoutExamples.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#13\Code\StackLayoutExamples\StackLayoutExamples\StackLayoutExamples\obj\Debug\netstandard2.0\ref\StackLayoutExamples.dll

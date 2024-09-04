@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExamples.Views.ScrollViewPage">
+    <ScrollView x:Name="Scroll1">
+        <StackLayout Margin="50">
+            <Label Text="My favorite color:" x:Name="Label1"/>
+            <BoxView BackgroundColor="Green" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label2"/>
+            <BoxView BackgroundColor="Red" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label3"/>
+            <BoxView BackgroundColor="AliceBlue" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label4"/>
+            <BoxView BackgroundColor="Magenta" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label5"/>
+            <BoxView BackgroundColor="DarkCyan" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label6"/>
+            <BoxView BackgroundColor="DarkGoldenrod" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label7"/>
+            <BoxView BackgroundColor="Gold" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label8"/>
+            <BoxView BackgroundColor="LightGoldenrodYellow" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label9"/>
+            <BoxView BackgroundColor="Firebrick" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label10"/>
+            <BoxView BackgroundColor="DeepSkyBlue" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label11"/>
+            <BoxView BackgroundColor="DarkGray" HeightRequest="100" CornerRadius="10"/>
+            <Label Text="My favorite color:" x:Name="Label12"/>
+            <BoxView BackgroundColor="SaddleBrown" HeightRequest="100" CornerRadius="10"/>
+            <Button HorizontalOptions="Center" Text="Go Back" Clicked="Button_Clicked" CornerRadius="10"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

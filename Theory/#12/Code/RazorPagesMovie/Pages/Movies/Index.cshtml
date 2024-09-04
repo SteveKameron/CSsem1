@@ -1,0 +1,94 @@
+﻿@page
+@model RazorPagesMovie.Pages.Movies.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+@*<form>
+    <p>
+        Title: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>*@
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Movie[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movie[0].ReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movie[0].Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movie[0].Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Movie) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+
+
+    </tbody>
+</table>
+
+
+
+
+
+@*<div class="row">
+
+        @foreach (var item in Model.Movie) 
+        {
+            <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-deck">
+                    <div class="card-header text-center cardHeaderStyle">
+                        <img class="card-img-top" src="https://lajoyalink.com/wp-content/uploads/2018/03/Movie.jpg" alt="Movie">
+			            <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+		            </div>
+                    <div class="card-body">
+                        <p class="card-text">Genre is @Html.DisplayFor(modelItem => item.Genre)</p>
+                        <p class="card-text">Released @Html.DisplayFor(modelItem => item.ReleaseDate)</p>
+                        <p class="card-text">Price @Html.DisplayFor(modelItem => item.Price)</p>
+
+                        <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> |
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-success">Details</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+</div>
+*@

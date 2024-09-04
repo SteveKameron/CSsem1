@@ -1,0 +1,16 @@
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\bin\Debug\netstandard2.0\AppLifeCycle.deps.json
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\bin\Debug\netstandard2.0\AppLifeCycle.dll
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\bin\Debug\netstandard2.0\AppLifeCycle.pdb
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.csproj.AssemblyReference.cache
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\EventPage.xaml.g.cs
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.AssemblyInfoInputs.cache
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.AssemblyInfo.cs
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.csproj.CoreCompileInputs.cache
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.dll
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\refint\AppLifeCycle.dll
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\AppLifeCycle.pdb
+C:\AppLifeCycle\AppLifeCycle\AppLifeCycle\AppLifeCycle\obj\Debug\netstandard2.0\ref\AppLifeCycle.dll

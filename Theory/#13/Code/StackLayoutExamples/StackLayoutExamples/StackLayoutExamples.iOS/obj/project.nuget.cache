@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "rU4yTnvF6k1G0Qz7C0gYvWG94JVIDlWnwh9p5Ezt9INVl0RJlWDbgStVR+hIhjBGZyFkdwNMIGFnTviBXxyz7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\Desktop\\Lec C#\\Lec C#\\#13\\Code\\StackLayoutExamples\\StackLayoutExamples\\StackLayoutExamples.iOS\\StackLayoutExamples.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.4\\xamarin.communitytoolkit.2.0.4.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Обнаружено понижение версии пакета Xamarin.Forms с 5.0.0.2291 на 5.0.0.2196. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n StackLayoutExamples.iOS -> StackLayoutExamples -> Xamarin.Forms (>= 5.0.0.2291) \r\n StackLayoutExamples.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

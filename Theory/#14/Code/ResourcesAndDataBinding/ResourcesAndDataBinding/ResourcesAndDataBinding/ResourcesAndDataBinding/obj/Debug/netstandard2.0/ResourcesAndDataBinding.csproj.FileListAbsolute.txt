@@ -1,0 +1,57 @@
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.deps.json
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\refint\ResourcesAndDataBinding.dll
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+F:\old pc\my docs\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ref\ResourcesAndDataBinding.dll
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.deps.json
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.AssemblyReference.cache
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfoInputs.cache
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfo.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.CoreCompileInputs.cache
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\refint\ResourcesAndDataBinding.dll
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ref\ResourcesAndDataBinding.dll
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\ContactView.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\ContactsListView.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\CollectionViewPage.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\CarouselViewPage.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\MVVMExamplePage.xaml.g.cs
+C:\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\MVVMExampleWithDbPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\bin\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\CarouselViewPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\CollectionViewPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\ContactsListView.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\ContactView.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\MVVMExamplePage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\Views\MVVMExampleWithDbPage.xaml.g.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\refint\ResourcesAndDataBinding.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ResourcesAndDataBinding.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#14\Code\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\ResourcesAndDataBinding\obj\Debug\netstandard2.0\ref\ResourcesAndDataBinding.dll

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="StackLayoutExamples.Views.MediaPage">
+    <xct:MediaElement 
+        HeightRequest="200"  
+        x:Name="videoView" 
+        AutoPlay="True" 
+        Source="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" 
+        HorizontalOptions="FillAndExpand" />
+
+</ContentPage>

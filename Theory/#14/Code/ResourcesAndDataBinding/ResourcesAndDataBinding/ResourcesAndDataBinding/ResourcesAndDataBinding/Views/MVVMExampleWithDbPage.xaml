@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResourcesAndDataBinding.Views.MVVMExampleWithDbPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <RefreshView RefreshColor="Blue" 
+                     IsRefreshing="{Binding IsRefreshing}"
+                     Command="{Binding RefreshCommand}">
+                <CollectionView x:Name="ContactsList" 
+                     ItemsSource="{Binding Contacts}"
+                     SelectionMode="Single" 
+                     SelectedItem="{Binding SelectedContact}"
+                     VerticalScrollBarVisibility="Never" 
+                     HorizontalScrollBarVisibility="Never">
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout Margin="10">
+                                <Label Text="First name:"/>
+                                <Entry Text="{Binding FirstName}"/>
+                                <Label Text="Last name:"/>
+                                <Entry Text="{Binding LastName}"/>
+                                <Label Text="Date of birth:"/>
+                                <DatePicker Date="{Binding DateOfBirth, 
+                                                Mode=TwoWay}"/>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Is Family Member?:" VerticalOptions="Center"/>
+                                    <CheckBox IsChecked="{Binding IsFamilyMember}" VerticalOptions="Center"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </RefreshView>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Add" Command="{Binding AddCommand}"/>
+                <Button Text="Delete" Command="{Binding DeleteCommand}" 
+                    CommandParameter="{Binding Source={x:Reference ContactsList}, 
+                    Path=SelectedItem}"/>
+                <Button Text="Save All" Command="{Binding SaveAllCommand}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExamples.Views.ButtonPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            
+            <Button x:Name="FirstButton" 
+                    Text="Tap here!"/>
+
+            <Button x:Name="SecondButton" 
+                    Text="Tap here!" 
+                    TextColor="DarkGray" 
+                    FontAttributes="Italic"
+                    BackgroundColor="DarkBlue"/>
+
+            <Button x:Name="ThirdButton" 
+                    Text="Tap here!" 
+                    TextColor="LightBlue" 
+                    BackgroundColor="#00003A" 
+                    BorderColor="Red" 
+                    BorderWidth="1" 
+                    CornerRadius="5" 
+                    Clicked="ThirdButton_Clicked"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

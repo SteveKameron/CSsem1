@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResourcesAndDataBinding.Views.CollectionViewPage">
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <CollectionView x:Name="ContactList" 
+                            ItemsSource="{Binding Contacts}" 
+                            Margin="15"
+                            SelectionMode="Single"
+                            SelectionChanged="ContactList_SelectionChanged"
+                            VerticalScrollBarVisibility="Never"
+                            HorizontalScrollBarVisibility="Never">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Margin="10">
+                            <Label Text="Full name:"/>
+                            <Entry Text="{Binding LastName}"/>
+                            <Label Text="First name:"/>
+                            <Entry Text="{Binding FirstName}"/>
+                            <Label Text="Date of birth:"/>
+                            <DatePicker Date="{Binding DateOfBirth,Mode=TwoWay}"/>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Is Family Member?:" VerticalOptions="Center"/>
+                                <CheckBox IsChecked="{Binding IsFamilyMember}" VerticalOptions="Center"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+                <CollectionView.EmptyView>
+                    <Label Text="No data is available" 
+                           TextColor="Red" 
+                           FontSize="Large"
+                           VerticalOptions="Center" 
+                           VerticalTextAlignment="Center"
+                           HorizontalOptions="Center"
+                           HorizontalTextAlignment="Center"/>
+                </CollectionView.EmptyView>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

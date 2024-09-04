@@ -1,0 +1,59 @@
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\appsettings.Development.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\appsettings.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.staticwebassets.runtime.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.exe
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.deps.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.dll
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.pdb
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.MvcApplicationPartsAssemblyInfo.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.RazorAssemblyInfo.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.RazorAssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\bundle\BlazorSampleServer.styles.css
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\projectbundle\BlazorSampleServer.bundle.scp.css
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.dll
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\refint\BlazorSampleServer.dll
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.pdb
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#12\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\ref\BlazorSampleServer.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\appsettings.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.staticwebassets.runtime.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.exe
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.deps.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.runtimeconfig.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\bin\Debug\net6.0\BlazorSampleServer.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.RazorAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.RazorAssemblyInfo.cs
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets\msbuild.BlazorSampleServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorSampleServer.props
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorSampleServer.props
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorSampleServer.props
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\bundle\BlazorSampleServer.styles.css
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\scopedcss\projectbundle\BlazorSampleServer.bundle.scp.css
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\refint\BlazorSampleServer.dll
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.pdb
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\BlazorSampleServer.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Lec C#\Lec C#\#12\old\2022\Code\BlazorSampleServer\BlazorSampleServer\obj\Debug\net6.0\ref\BlazorSampleServer.dll

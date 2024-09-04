@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExamples.Views.LabelEntryEditorPage">
+    <ContentPage.Content>
+        <StackLayout Padding="50">
+            
+            <Label Text="Displaying some text" 
+                   x:Name="Label1"
+                   LineBreakMode="WordWrap" 
+                   TextColor="Blue" 
+                   XAlign="Center" 
+                   YAlign="Center"/>
+            
+            <BoxView HeightRequest="1" Color="DarkBlue" />
+
+            <Entry x:Name="Entry1" 
+                   Placeholder="One-row text"
+                   TextColor="Green" 
+                   Keyboard="Telephone"                    
+                   TextChanged="Entry1_TextChanged"/>
+
+            <BoxView HeightRequest="1" Color="DarkBlue" />
+
+            <Editor x:Name="Editor1" 
+                   Placeholder="Multi-rows text"
+                   TextColor="Green" 
+                   Keyboard="Chat" 
+                   Completed="Editor1_Completed"
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="FillAndExpand"/>
+
+            <BoxView HeightRequest="1" Color="DarkBlue" />
+            
+            <Label HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span FontSize="Large" 
+                                  FontAttributes="Bold"
+                                  ForegroundColor="Red"
+                                  Text="Xamarin " />
+                            
+                            <Span FontSize="Medium" 
+                                  FontAttributes="Italic"
+                                  ForegroundColor="Black" 
+                                  Text="Forms " />
+                            
+                            <Span FontSize="Small" 
+                                  FontAttributes="Bold"
+                                  ForegroundColor="Blue"
+                                  Text="Formatted Label" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

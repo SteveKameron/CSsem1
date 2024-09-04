@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResourcesAndDataBinding.MainPage">
+
+    <StackLayout>
+        <Label Text="Enter some text:" Style="{StaticResource labelStyle}"
+               VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Button Text="Implicitly styled button"/>
+
+        <Button Text="Contact Binding" Clicked="Button_Clicked"/>
+        <Button Text="Contacts List Binding" Clicked="Button_Clicked_1"/>
+        <Button Text="Collection View Example" Clicked="Button_Clicked_2"/>
+        <Button Text="Carousel View Example" Clicked="Button_Clicked_3"/>
+        <Button Text="MVVM Example" Clicked="Button_Clicked_4"/>
+        <Button Text="MVVM with Db Example" Clicked="Button_Clicked_5"/>
+        
+        
+    </StackLayout>
+
+</ContentPage>
