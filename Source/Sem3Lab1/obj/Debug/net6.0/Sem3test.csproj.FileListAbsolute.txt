@@ -1,0 +1,14 @@
+C:\Users\SteveKameron\source\repos\Sem3test\bin\Debug\net6.0\Sem3test.exe
+C:\Users\SteveKameron\source\repos\Sem3test\bin\Debug\net6.0\Sem3test.deps.json
+C:\Users\SteveKameron\source\repos\Sem3test\bin\Debug\net6.0\Sem3test.runtimeconfig.json
+C:\Users\SteveKameron\source\repos\Sem3test\bin\Debug\net6.0\Sem3test.dll
+C:\Users\SteveKameron\source\repos\Sem3test\bin\Debug\net6.0\Sem3test.pdb
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.AssemblyInfoInputs.cache
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.AssemblyInfo.cs
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.csproj.CoreCompileInputs.cache
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.dll
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\refint\Sem3test.dll
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.pdb
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\Sem3test.genruntimeconfig.cache
+C:\Users\SteveKameron\source\repos\Sem3test\obj\Debug\net6.0\ref\Sem3test.dll
