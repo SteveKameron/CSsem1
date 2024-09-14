@@ -1,0 +1,14 @@
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.AssemblyInfoInputs.cache
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.AssemblyInfo.cs
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.csproj.CoreCompileInputs.cache
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\bin\Debug\net6.0\Sem3Lab3Source3.exe
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\bin\Debug\net6.0\Sem3Lab3Source3.deps.json
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\bin\Debug\net6.0\Sem3Lab3Source3.runtimeconfig.json
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\bin\Debug\net6.0\Sem3Lab3Source3.dll
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\bin\Debug\net6.0\Sem3Lab3Source3.pdb
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.dll
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\refint\Sem3Lab3Source3.dll
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.pdb
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\Sem3Lab3Source3.genruntimeconfig.cache
+C:\Users\173\Desktop\МГТУ\программирование\C#\Source\Sem3Lab3\Sem3Lab3Source3\Sem3Lab3Source3\obj\Debug\net6.0\ref\Sem3Lab3Source3.dll
