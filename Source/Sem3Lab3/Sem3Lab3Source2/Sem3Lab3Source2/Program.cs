@@ -39,7 +39,7 @@ public class Car : IEquatable<Car>
         return (Name == car.Name) && (Engine == car.Engine) && (MaxSpeed == car.MaxSpeed);
     }
 
-    public override bool Equals(object? obj)
+    public override bool Equals(object obj)
     {
         if (obj == null || GetType() != obj.GetType()) return false;
         return Equals((Car)obj);
