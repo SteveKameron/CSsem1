@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sem3Lab8.Animal">
+    <Position X="8.25" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAABAAAQAgAQAAAIAEAABAAAAAAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+      <NewMemberFileName>Animal.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Classification" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Sem3Lab8.Cow">
+    <Position X="6.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+      <NewMemberFileName>Cow.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem3Lab8.Lion">
+    <Position X="9" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sem3Lab8.Pig">
+    <Position X="11.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Sem3Lab8.eFavouriteFood">
+    <Position X="14" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sem3Lab8.eClassificationAnimal">
+    <Position X="14" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAQAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sem3Lab8Deserializer/1.0.0": {
+        "dependencies": {
+          "Sem3Lab8": "1.0.0"
+        },
+        "runtime": {
+          "Sem3Lab8Deserializer.dll": {}
+        }
+      },
+      "Sem3Lab8/1.0.0": {
+        "runtime": {
+          "Sem3Lab8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem3Lab8Deserializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sem3Lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

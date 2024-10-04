@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Classification>Herbivores</Classification>
+  <Country>123</Country>
+  <HideFromOtherAnimals>0</HideFromOtherAnimals>
+  <Name>Lion</Name>
+  <WhatAnimal>52</WhatAnimal>
+</Animal>

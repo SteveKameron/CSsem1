@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Classification>Carnivores</Classification>
+  <Country>0</Country>
+  <HideFromOtherAnimals>0</HideFromOtherAnimals>
+  <WhatAnimal>0</WhatAnimal>
+</Animal>
