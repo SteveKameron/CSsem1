@@ -1,0 +1,14 @@
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\bin\Debug\net6.0\Semestr3Lab52.exe
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\bin\Debug\net6.0\Semestr3Lab52.deps.json
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\bin\Debug\net6.0\Semestr3Lab52.runtimeconfig.json
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\bin\Debug\net6.0\Semestr3Lab52.dll
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\bin\Debug\net6.0\Semestr3Lab52.pdb
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.AssemblyInfoInputs.cache
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.AssemblyInfo.cs
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.csproj.CoreCompileInputs.cache
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.dll
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\refint\Semestr3Lab52.dll
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.pdb
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\Semestr3Lab52.genruntimeconfig.cache
+C:\Users\SteveKameron\source\repos\Semestr3Lab52\obj\Debug\net6.0\ref\Semestr3Lab52.dll
