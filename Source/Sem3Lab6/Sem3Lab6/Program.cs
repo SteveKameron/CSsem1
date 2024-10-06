@@ -8,7 +8,7 @@ class Program
         Random random = new Random();
         using (HttpClient client = new HttpClient())
         {
-            while (weathers.Count < 50)
+            while (weathers.Count < 10)
             {
                 double shirota = random.NextDouble() * 180 - 90; //широта от -90 до 90
                 double dolgota = random.NextDouble() * 360 - 180; //долгота от -180 до 180

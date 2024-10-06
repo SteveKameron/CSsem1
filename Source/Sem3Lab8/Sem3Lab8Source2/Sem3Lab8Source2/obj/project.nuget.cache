@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ju2ecnLNt0HfK+CgJ6umsLnJXNhEanQ387FXxNOQL94pit4Lht4qQYLbsuQrlE6BFapncUd0Ldb7SPwcOfsmYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\173\\Desktop\\МГТУ\\программирование\\C#\\Source\\Sem3Lab8\\Sem3Lab8Source2\\Sem3Lab8Source2\\Sem3Lab8Source2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\173\\.nuget\\packages\\sharpcompress\\0.38.0\\sharpcompress.0.38.0.nupkg.sha512",
+    "C:\\Users\\173\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
