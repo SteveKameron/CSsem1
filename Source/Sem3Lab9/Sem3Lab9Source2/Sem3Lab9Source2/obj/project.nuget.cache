@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5MHBpBi+G8GF7K3v2lSbX46RfbnHbHyJsl4sT1+IgztvYl93d8altLS9bgJCg6ox0peyFOluiWO/5khhbhTSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\173\\Desktop\\МГТУ\\программирование\\C#\\Source\\Sem3Lab9\\Sem3Lab9Source2\\Sem3Lab9Source2\\Sem3Lab9Source2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\173\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
