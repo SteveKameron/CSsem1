@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "is7k36B/kVeSci9YP1ZXFJ68oflTeVGMyiOQsB189eMkc4LB5udm1bjO6GIck7U3MyxbQCTon53ka1Fy6S7I/Q==",
+  "dgSpecHash": "F56TdFBoyazBlM/xDi9UwKc6V5tW6rWMgNjjRoNhG7D/c7W5WA1erBm7CbdFj6uq/Z+bTMgbfwylFbUJlsXa5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\173\\Desktop\\МГТУ\\программирование\\C#\\Source\\Sem3Lab9\\Sem3Lab9Source1\\Sem3Lab9\\Sem3Lab9.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\173\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
