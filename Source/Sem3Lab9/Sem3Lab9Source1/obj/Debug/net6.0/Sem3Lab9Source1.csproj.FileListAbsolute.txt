@@ -1,0 +1,17 @@
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Sem3Lab9Source1.exe
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Sem3Lab9Source1.deps.json
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Sem3Lab9Source1.runtimeconfig.json
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Sem3Lab9Source1.dll
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Sem3Lab9Source1.pdb
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.AssemblyInfoInputs.cache
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.AssemblyInfo.cs
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.csproj.CoreCompileInputs.cache
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.dll
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\refint\Sem3Lab9Source1.dll
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.pdb
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.genruntimeconfig.cache
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\ref\Sem3Lab9Source1.dll
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.csproj.AssemblyReference.cache
+C:\Users\SteveKameron\source\repos\Sem3Lab9Source1\obj\Debug\net6.0\Sem3Lab9Source1.csproj.CopyComplete
